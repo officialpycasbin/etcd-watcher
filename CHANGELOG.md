@@ -1,5 +1,13 @@
 # Semantic Versioning Changelog
 
+# [1.2.0](https://github.com/officialpycasbin/etcd-watcher/compare/v1.1.0...v1.2.0) (2024-11-12)
+
+
+### Features
+
+* fix CI's etcd container error ([b8bcf79](https://github.com/officialpycasbin/etcd-watcher/commit/b8bcf7932d2d446a66bea389dd694119124df3ad))
+* update path ([6368448](https://github.com/officialpycasbin/etcd-watcher/commit/63684489cf71477ff0ead3de4cbac66a2fd94a75))
+
 # [1.1.0](https://github.com/officialpycasbin/etcd-watcher/compare/v1.0.2...v1.1.0) (2024-03-29)
 
 
