@@ -1,18 +1,18 @@
 # etcd-watcher
 
-[![tests](https://github.com/pycasbin/etcd-watcher/actions/workflows/release.yml/badge.svg)](https://github.com/pycasbin/etcd-watcher/actions/workflows/release.yml)
-[![Coverage Status](https://coveralls.io/repos/github/pycasbin/etcd-watcher/badge.svg)](https://coveralls.io/github/pycasbin/etcd-watcher)
-[![Version](https://img.shields.io/pypi/v/casbin-etcd-watcher.svg)](https://pypi.org/project/casbin-etcd-watcher/)
-[![PyPI - Wheel](https://img.shields.io/pypi/wheel/casbin-etcd-watcher.svg)](https://pypi.org/project/casbin-etcd-watcher/)
-[![Pyversions](https://img.shields.io/pypi/pyversions/casbin-etcd-watcher.svg)](https://pypi.org/project/casbin-etcd-watcher/)
-[![Download](https://img.shields.io/pypi/dm/casbin-etcd-watcher.svg)](https://pypi.org/project/casbin-etcd-watcher/)
+[![tests](https://github.com/officialpycasbin/etcd-watcher/actions/workflows/release.yml/badge.svg)](https://github.com/officialpycasbin/etcd-watcher/actions/workflows/release.yml)
+[![Coverage Status](https://coveralls.io/repos/github/officialpycasbin/etcd-watcher/badge.svg)](https://coveralls.io/github/officialpycasbin/etcd-watcher)
+[![Version](https://img.shields.io/pypi/v/etcd-watcher.svg)](https://pypi.org/project/etcd-watcher/)
+[![PyPI - Wheel](https://img.shields.io/pypi/wheel/etcd-watcher.svg)](https://pypi.org/project/etcd-watcher/)
+[![Pyversions](https://img.shields.io/pypi/pyversions/etcd-watcher.svg)](https://pypi.org/project/etcd-watcher/)
+[![Download](https://img.shields.io/pypi/dm/etcd-watcher.svg)](https://pypi.org/project/etcd-watcher/)
 [![Discord](https://img.shields.io/discord/1022748306096537660?logo=discord&label=discord&color=5865F2)](https://discord.gg/S5UjpzGZjN)
 
 Etcd Watcher is the [Etcd](https://github.com/coreos/etcd) watcher for [pycasbin](https://github.com/casbin/pycasbin). With this library, Casbin can synchronize the policy with the database in multiple enforcer instances.
 
 ## Installation
 
-    pip install casbin-etcd-watcher
+    pip install etcd-watcher
 
 ## Simple Example
 
