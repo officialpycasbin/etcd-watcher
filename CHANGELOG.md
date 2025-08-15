@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.3.0](https://github.com/officialpycasbin/etcd-watcher/compare/v1.2.0...v1.3.0) (2025-08-15)
+
+
+### Features
+
+* switch from casbin to pycasbin ([4b46805](https://github.com/officialpycasbin/etcd-watcher/commit/4b4680557b30835797b7b3b75195d2c7469a6962))
+
 # [1.2.0](https://github.com/officialpycasbin/etcd-watcher/compare/v1.1.0...v1.2.0) (2024-11-12)
 
 
