@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.4.0](https://github.com/officialpycasbin/etcd-watcher/compare/v1.3.0...v1.4.0) (2025-08-17)
+
+
+### Features
+
+* upgrade semantic-release-pypi to fix the release error ([#2](https://github.com/officialpycasbin/etcd-watcher/issues/2)) ([e015155](https://github.com/officialpycasbin/etcd-watcher/commit/e0151559d0f83a7fbc6cbe5eb70c36f1cef1419b))
+
 # [1.3.0](https://github.com/officialpycasbin/etcd-watcher/compare/v1.2.0...v1.3.0) (2025-08-15)
 
 
