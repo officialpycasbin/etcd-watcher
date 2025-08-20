@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.5.0](https://github.com/officialpycasbin/etcd-watcher/compare/v1.4.0...v1.5.0) (2025-08-20)
+
+
+### Features
+
+* fix README badges ([#3](https://github.com/officialpycasbin/etcd-watcher/issues/3)) ([7d3cde9](https://github.com/officialpycasbin/etcd-watcher/commit/7d3cde96850bb1e7b5b4e532456325232ffc5405))
+
 # [1.4.0](https://github.com/officialpycasbin/etcd-watcher/compare/v1.3.0...v1.4.0) (2025-08-17)
 
 
