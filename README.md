@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/pypi/v/etcd-watcher.svg)](https://pypi.org/project/etcd-watcher/)
 [![PyPI - Wheel](https://img.shields.io/pypi/wheel/etcd-watcher.svg)](https://pypi.org/project/etcd-watcher/)
 [![Pyversions](https://img.shields.io/pypi/pyversions/etcd-watcher.svg)](https://pypi.org/project/etcd-watcher/)
-[![Download](https://img.shields.io/pypi/dm/etcd-watcher.svg)](https://pypi.org/project/etcd-watcher/)
+[![Download](https://static.pepy.tech/badge/etcd-watcher)](https://pypi.org/project/etcd-watcher/)
 [![Discord](https://img.shields.io/discord/1022748306096537660?logo=discord&label=discord&color=5865F2)](https://discord.gg/S5UjpzGZjN)
 
 Etcd Watcher is the [Etcd](https://github.com/coreos/etcd) watcher for [pycasbin](https://github.com/casbin/pycasbin). With this library, Casbin can synchronize the policy with the database in multiple enforcer instances.
